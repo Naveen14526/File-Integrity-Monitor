@@ -1,0 +1,5 @@
+fim
+*.exe
+.vscode/
+data/baseline.db
+reports/*.txt
